@@ -1,7 +1,7 @@
 # CRUD Flask API
 <img src="" alt="Website image">
 
-!['Project Status'](https://img.shields.io/badge/Project%20Status-On_Hold-orange)
+!['Project Status'](https://img.shields.io/badge/Project%20Status-On_Hold-red)
 !['Last Commit'](https://img.shields.io/github/last-commit/ismael616/Flask-API-TP)
 
 <!-- ## Table of contents 
